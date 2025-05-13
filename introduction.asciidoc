@@ -9,7 +9,7 @@ In the OCPI Development Working Group at the EV Roaming Foundation we are always
 [[introduction_ocpi_2.2.1]]
 === OCPI 2.2.1
 
-During implementation of OCPI 2.2 some issues where found that required updating the protocol to fix them.
+During implementation of OCPI 2.2 some issues were found that required updating the protocol to fix them.
 These are all minor changes, so most OCPI 2.2 implementations would need no, or only minor changes, to upgrade to OCPI 2.2.1.
 
 For more information on detailed changes see <<changelog.asciidoc#changelog_changelog,changelog>>.
